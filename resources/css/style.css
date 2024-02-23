@@ -1,14 +1,14 @@
 /* Body */
 body {
     background-color: black;
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 }
 
-/* Paragraph */
+/* Class */
 
 .Download {
     color: aquamarine;
@@ -18,14 +18,23 @@ body {
 .trademark {
     text-align: right;
     color: grey;
-    font-size: 42px;
+    font-size: 20px;
 }
+
+.media {
+    text-align: center;
+  }
 
 /* h2 */
 
 h2 {
-    font-size: 22px;
+    font-size: 42px;
     font-weight: 300;
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Paragraph */
+p {
+    font-size: 21px;
+    color: gray;
+}
