@@ -10,12 +10,12 @@ body {
 
 /* Paragraph */
 
-p .Download {
+.Download {
     color: aquamarine;
     font-size: 16px;
 }
 
-p .trademark {
+.trademark {
     text-align: right;
     color: grey;
 }
@@ -23,5 +23,5 @@ p .trademark {
 /* h2 */
 
 h2 {
-    
+
 }
