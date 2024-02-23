@@ -33,12 +33,11 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* Paragraph */
 
-p {
+/* footer */
+
+footer {
     font-size: 21px;
     color: gray;
+    text-align: right;
 }
-
-/* header */
-
