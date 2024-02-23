@@ -10,7 +10,7 @@ body {
 
 /* Class */
 
-.Download {
+.Download--cta {
     color: aquamarine;
     font-size: 16px;
 }
@@ -34,7 +34,11 @@ h2 {
 }
 
 /* Paragraph */
+
 p {
     font-size: 21px;
     color: gray;
 }
+
+/* header */
+
